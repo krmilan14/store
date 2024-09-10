@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "116966213713",
+    "project_id": "nativegroceryapp",
+    "storage_bucket": "nativegroceryapp.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:116966213713:android:b0e9573d521e855a9f5070",
+        "android_client_info": {
+          "package_name": "com.project1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBktA0_RDqD95Xz-2bNvNhVyot20Nt9dEc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
